@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="email">Masukkan Email</string>
+    <string name="password">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="username">Masukkan Username</string>
+    <string name="register">Register</string>
+    <string name="image_note">image_note</string>
+    <string name="welcome">Selamat Datang di Halaman Home</string>
+    <string name="logout">Logout</string>
+    <string name="belum_punya_akun_register">Belum punya akun? Register</string>
+</resources>
